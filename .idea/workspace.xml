@@ -5,35 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81c06e89-d232-434f-9114-1fe5a29176ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DSA/PrintSubSequence.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DSA/recursion/CombinationSum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DSA/recursion/CombinationSum2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DSA/recursion/CountSubSequenceWithSumK.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DSA/recursion/FindAllPermutations.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DSA/recursion/FindAllPermutationsOptimal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DSA/recursion/MergeSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DSA/recursion/PrintAllSubSequenceWithSumK.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DSA/recursion/PrintOneSubSequenceWithSumK.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DSA/recursion/QuickSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DSA/recursion/SubsetSum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DSA/recursion/SubsetSum2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/CombinationSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/CombinationSum2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/CountSubSequenceWithSumK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/FindAllPermutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/FindAllPermutationsOptimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/NQueens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/PrintAllSubSequenceWithSumK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/PrintOneSubSequenceWithSumK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/PrintSubSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/SubsetSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/SubsetSum2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,61 +31,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="2.3901874993134426E-40" />
-      <entry key="MS500" value="1.1936167072257392E-8" />
-      <entry key="S2" value="0.01467322949122359" />
-      <entry key="S5" value="0.4054299353542842" />
-      <entry key="S10" value="1.6576945283180418" />
-      <entry key="S30" value="5.223688145478378" />
-      <entry key="S60" value="7.663430374159416" />
-      <entry key="M2" value="12.655078446801115" />
-      <entry key="M5" value="29.713975375565347" />
-      <entry key="M10" value="59.09770211544319" />
-      <entry key="M15" value="84.00784958727183" />
-      <entry key="M30" value="129.73293774234955" />
-      <entry key="H1" value="166.67171779810735" />
-      <entry key="H2" value="190.51734266118683" />
-      <entry key="H4" value="204.11998820835004" />
-      <entry key="D1" value="216.42574331741824" />
-      <entry key="W1" value="218.6298644633055" />
+      <entry key="MS100" value="1.000011451656982" />
+      <entry key="MS500" value="1.4208151408695444" />
+      <entry key="S2" value="5.057398441908908" />
+      <entry key="S5" value="7.791762629866423" />
+      <entry key="S10" value="11.75539854988885" />
+      <entry key="S30" value="32.68940816822715" />
+      <entry key="S60" value="55.454258541402226" />
+      <entry key="M2" value="77.78316055928188" />
+      <entry key="M5" value="98.08170093927701" />
+      <entry key="M10" value="106.52091211038551" />
+      <entry key="M15" value="109.61663738222781" />
+      <entry key="M30" value="116.44946406435903" />
+      <entry key="H1" value="147.3918000156943" />
+      <entry key="H2" value="216.84479589192196" />
+      <entry key="H4" value="295.45529139490174" />
+      <entry key="D1" value="406.5228480994338" />
+      <entry key="W1" value="431.6104676230756" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0000000003690916" />
-      <entry key="MS500" value="1.017105070847363" />
-      <entry key="S2" value="1.5909993662281936" />
-      <entry key="S5" value="2.2251541634667014" />
-      <entry key="S10" value="2.5647054149031154" />
-      <entry key="S30" value="2.846113055148363" />
-      <entry key="S60" value="3.0685861617770644" />
-      <entry key="M2" value="4.086251863750517" />
-      <entry key="M5" value="7.450069665896689" />
-      <entry key="M10" value="11.103616423085322" />
-      <entry key="M15" value="13.329680203598691" />
-      <entry key="M30" value="16.650631035958032" />
-      <entry key="H1" value="18.980107949451426" />
-      <entry key="H2" value="20.38763062704054" />
-      <entry key="H4" value="21.165785662716296" />
-      <entry key="D1" value="21.856842624141436" />
-      <entry key="W1" value="21.979444856329334" />
+      <entry key="MS100" value="2.911301380532525E-255" />
+      <entry key="MS500" value="1.2382759363066487E-51" />
+      <entry key="S2" value="1.8758769988687255E-13" />
+      <entry key="S5" value="8.114873297830095E-6" />
+      <entry key="S10" value="0.002848661667841599" />
+      <entry key="S30" value="0.14175779759365303" />
+      <entry key="S60" value="0.3765073672501684" />
+      <entry key="M2" value="0.6136019615762061" />
+      <entry key="M5" value="0.8225355870159239" />
+      <entry key="M10" value="0.9071211713979179" />
+      <entry key="M15" value="0.9461869190234949" />
+      <entry key="M30" value="1.4966351117042995" />
+      <entry key="H1" value="5.2792606605969095" />
+      <entry key="H2" value="13.501846017020679" />
+      <entry key="H4" value="22.46803805111072" />
+      <entry key="D1" value="34.78199290202252" />
+      <entry key="W1" value="37.52192487125906" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="3.894859491577942E-6" />
-      <entry key="MS500" value="0.08972255782230242" />
-      <entry key="S2" value="1.0033340285614119" />
-      <entry key="S5" value="2.257347550377779" />
-      <entry key="S10" value="3.9588638219859185" />
-      <entry key="S30" value="7.922126344239974" />
-      <entry key="S60" value="10.63731861472666" />
-      <entry key="M2" value="16.66945752288525" />
-      <entry key="M5" value="37.10180744953403" />
-      <entry key="M10" value="70.14497767210528" />
-      <entry key="M15" value="97.28691023778077" />
-      <entry key="M30" value="146.3469392621818" />
-      <entry key="H1" value="185.6291318057881" />
-      <entry key="H2" value="210.892245525079" />
-      <entry key="H4" value="225.2790209695477" />
-      <entry key="D1" value="238.28140225750428" />
-      <entry key="W1" value="240.60913873889106" />
+      <entry key="MS100" value="0.004655956644725174" />
+      <entry key="MS500" value="0.756783297300428" />
+      <entry key="S2" value="4.808626439240292" />
+      <entry key="S5" value="7.680791614678793" />
+      <entry key="S10" value="11.695711276231721" />
+      <entry key="S30" value="32.787191419918955" />
+      <entry key="S60" value="55.79318843241861" />
+      <entry key="M2" value="78.37041127536604" />
+      <entry key="M5" value="98.89105604343759" />
+      <entry key="M10" value="107.42090945645148" />
+      <entry key="M15" value="110.55791306808132" />
+      <entry key="M30" value="117.94250047025916" />
+      <entry key="H1" value="152.66509358489188" />
+      <entry key="H2" value="230.3389131628829" />
+      <entry key="H4" value="317.91680240784984" />
+      <entry key="D1" value="441.30313125327655" />
+      <entry key="W1" value="469.13212826773906" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -151,7 +123,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.NQueens">
+  <component name="RunManager" selected="Application.PrintSubSequence">
     <configuration name="CombinationSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="recursion.CombinationSum" />
       <module name="DSA" />
@@ -186,8 +158,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrintSubSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <option name="MAIN_CLASS_NAME" value="PrintSubSequence" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintSubSequence" />
         <item itemvalue="Application.NQueens" />
         <item itemvalue="Application.CombinationSum" />
         <item itemvalue="Application.Main" />
@@ -209,7 +190,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1782215443397</updated>
-      <workItem from="1782215444405" duration="3253000" />
+      <workItem from="1782215444405" duration="7900000" />
     </task>
     <servers />
   </component>

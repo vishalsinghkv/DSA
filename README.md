@@ -12,7 +12,6 @@ This repository contains my solutions to various Data Structures and Algorithms 
 
 Each topic is organized into a separate folder:
 
-## 📂 Project Structure
 
 ## 📂 Project Structure
 
